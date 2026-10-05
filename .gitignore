@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.trash/
+.obsidian/
+test_vault/
+*.txt
+
+vault_analysis.html
